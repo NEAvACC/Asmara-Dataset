@@ -1,0 +1,86 @@
+<Sectors>
+
+  <!-- ACC -->
+
+  <Sector Name="ASM" FullName="Asmara Control" Frequency="129.500" Callsign="HHAA_1_CTR">
+    <Volumes>HHAA</Volumes>
+  </Sector>
+
+  <!-- APP -->
+
+  <Sector Name="ASA" FullName="Asmara Approach" Frequency="120.700" Callsign="HHAS_APP">
+    <Volumes>HHAS_TMA</Volumes>
+  </Sector>
+  <Sector Name="SBA" FullName="Assab Approach" Frequency="129.500" Callsign="HHSB_APP">
+    <Volumes>HHSB_TMA</Volumes>
+  </Sector>
+
+  <!-- TWR -->
+
+  <Sector Name="AS ADC" FullName="Asmara Tower" Frequency="118.100" Callsign="HHAS_TWR"
+    DisplayInHandoffWindow="False">
+    <Volumes>HHAS_CTR</Volumes>
+  </Sector>
+  <Sector Name="MS ADC" FullName="Massawa Tower" Frequency="118.300" Callsign="HHMS_TWR"
+    DisplayInHandoffWindow="False">
+    <Volumes>HHMS_CTR</Volumes>
+  </Sector>
+  <Sector Name="AB ADC" FullName="Assab Tower" Frequency="118.600" Callsign="HHSB_TWR"
+    DisplayInHandoffWindow="False">
+    <Volumes>HHSB_CTR</Volumes>
+  </Sector>
+
+
+  <!-- Sectors for handoff (!!YET TO BE COMPLETED!!)-->
+
+
+  <Sector FullName="Africa East Control" Frequency="135.050" Callsign="AFRE_FSS" Name="AFE">
+    <Volumes>AFRE</Volumes>
+  </Sector>
+  <Sector FullName="Gulf Control" Frequency="133.650" Callsign="GULF_FSS" Name="GCC">
+    <Volumes>GULF</Volumes>
+  </Sector>
+  <Sector FullName="Gulf Control" Frequency="133.500" Callsign="GULF_W_FSS" Name="GCW">
+    <Volumes>GULF</Volumes>
+  </Sector>
+  <Sector FullName="Sanna Control" Frequency="120.100" Callsign="OYSC_CTR" Name="SAN">
+    <Volumes>OYSC</Volumes>
+  </Sector>
+  <Sector FullName="Addis Control" Frequency="125.100" Callsign="HAAA_1_CTR" Name="AAW">
+    <Volumes>HAAA_W</Volumes>
+  </Sector>
+  <Sector FullName="Addis Control" Frequency="125.200" Callsign="HAAA_2_CTR" Name="AAE">
+    <Volumes>HAAA_E</Volumes>
+  </Sector>
+  <Sector FullName="Khartoum Center" Frequency="127.500" Callsign="HSSS_1_CTR" Name="KRN">
+    <Volumes>HSSS_N</Volumes>
+  </Sector>
+  <Sector FullName="Khartoum Center" Frequency="127.300" Callsign="HSSS_2_CTR" Name="KRS">
+    <Volumes>HSSS_S</Volumes>
+  </Sector>
+  <Sector FullName="Jeddah Control" Frequency="126.500" Callsign="OEJD_1_CTR" Name="JDC">
+    <Volumes>OEJD_S</Volumes>
+  </Sector>
+  <Sector FullName="Jeddah Control" Frequency="133.900" Callsign="OEJD_2_CTR" Name="JD2">
+    <Volumes>OEJD_S</Volumes>
+  </Sector>
+  <Sector FullName="Jeddah Control" Frequency="126.550" Callsign="OEJD_C_CTR" Name="JDP">
+    <Volumes>OEJD_S</Volumes>
+  </Sector>
+  <Sector FullName="Jeddah Upper" Frequency="127.750" Callsign="OEJD_U_CTR" Name="JDU">
+    <Volumes>OEJD_S</Volumes>
+  </Sector>
+  <Sector FullName="Jeddah Terminal Control" Frequency="125.450" Callsign="OEJN_1_CTR" Name="JDL">
+    <Volumes>OEJN_CTA</Volumes>
+  </Sector>
+  <Sector FullName="Jeddah Approach" Frequency="124.000" Callsign="OEJN_APP" Name="JDA">
+    <Volumes>OEJN_CTA</Volumes>
+  </Sector>
+  <Sector FullName="Djibouti Approach" Frequency="121.200" Callsign="HDAM_APP" Name="DJI">
+    <Volumes>HDAM_TMA</Volumes>
+  </Sector>
+  <Sector FullName="Mekele Approach" Frequency="118.500" Callsign="HAMK_APP" Name="MKA">
+    <Volumes>HAMK_TMA</Volumes>
+  </Sector>
+
+</Sectors>
