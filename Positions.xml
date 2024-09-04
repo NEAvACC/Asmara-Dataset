@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Positions xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+  <!--ACC
+  Positions-->
+
+  <Position Name="Asmara Control" Type="ASD" DefaultCenter="+16.976382+038.923062"
+    DefaultRange="2500">
+    <Sectors>
+      <Sector Name="AS" />
+      <Sector Name="SA" />
+    </Sectors>
+    <ManualVisibility>
+      <Point>+13.738268+042.149672</Point>
+      <Point>+15.712415+037.564909</Point>
+    </ManualVisibility>
+    <Maps>
+      <Map Name="ALL_NAVAIDS" />
+      <Map Name="ALL_NAVAIDS_NAMES" />
+      <Map Name="COAST" />
+      <Map Name="FIR_BDRY" />
+      <Map Name="ALL_TMA" />
+      <Map Name="ALL_ROUTE_HIGH" />
+      <Map Name="ALL_POINTS_HIGH" />
+    </Maps>
+    <Strips Mode="State" Sort="Time">
+      <Window Type="State" State="Jurisdiction" Visible="true" />
+      <Window Type="State" State="Announced" Visible="true" />
+      <Window Type="State" State="Preactive" Visible="true" />
+    </Strips>
+    <ArrivalLists>
+      <Airport Name="HHAS" />
+      <Airport Name="HHSB" />
+    </ArrivalLists>
+    <ControllerInfo>
+        <Line>"Asmara Control" | CPDLC [HHAA] AVIL FOR FANS 1/A EQUIP ACFT FL245+</Line>
+        <Line>Covering the entire Eritrean FIR when local ATC offline</Line>
+        <Line>Charts: https://vats.im/NEAcharts</Line>
+        <Line>Feedback: https://vats.im/nea-feedback</Line>
+    </ControllerInfo>
+  </Position>
+
+  <!--APP
+  Positions-->
+
+  <Position Name="Asmara Approach" Type="ASD" DefaultCenter="+15.286492+038.897270"
+    DefaultRange="800">
+    <Sectors>
+      <Sector Name="AA" />
+    </Sectors>
+    <Maps>
+      <Map Name="ALL_NAVAIDS" />
+      <Map Name="ALL_NAVAIDS_NAMES" />
+      <Map Name="COAST" />
+      <Map Name="FIR_BDRY" />
+      <Map Name="ALL_TMA" />
+      <Map Name="ALL_CTR" />
+      <Map Name="ALL_ROUTE_HIGH" />
+      <Map Name="ALL_POINTS_HIGH" />
+    </Maps>
+    <Strips Mode="State" Sort="Time">
+      <Window Type="State" State="Jurisdiction" Visible="true" />
+      <Window Type="State" State="Announced" Visible="true" />
+      <Window Type="State" State="Preactive" Visible="true" />
+    </Strips>
+    <ArrivalLists>
+      <Airport Name="HHAS" />
+    </ArrivalLists>
+    <ControllerInfo>
+      <Line>"Asmara Approach"</Line>
+      <Line>Report Callsign, Aircraft Type and Position on Initial Contact</Line>
+      <Line>Charts: https://vats.im/NEAcharts</Line>
+      <Line>Feedback: https://vats.im/nea-feedback</Line>
+    </ControllerInfo>
+  </Position>
+
+  <Position Name="Assab Approach" Type="ASD" DefaultCenter="+13.071925+042.645045"
+    DefaultRange="800">
+    <Sectors>
+      <Sector Name="SA" />
+    </Sectors>
+    <Maps>
+      <Map Name="ALL_NAVAIDS" />
+      <Map Name="ALL_NAVAIDS_NAMES" />
+      <Map Name="COAST" />
+      <Map Name="FIR_BDRY" />
+      <Map Name="ALL_TMA" />
+      <Map Name="ALL_CTR" />
+      <Map Name="ALL_ROUTE_HIGH" />
+      <Map Name="ALL_POINTS_HIGH" />
+    </Maps>
+    <Strips Mode="State" Sort="Time">
+      <Window Type="State" State="Jurisdiction" Visible="true" />
+      <Window Type="State" State="Announced" Visible="true" />
+      <Window Type="State" State="Preactive" Visible="true" />
+    </Strips>
+    <ArrivalLists>
+      <Airport Name="HHSB" />
+    </ArrivalLists>
+    <ControllerInfo>
+      <Line>"Assab Approach"</Line>
+      <Line>Report Callsign, Aircraft Type and Position on Initial Contact</Line>
+      <Line>Charts: https://vats.im/NEAcharts</Line>
+      <Line>Feedback: https://vats.im/nea-feedback</Line>
+    </ControllerInfo>
+  </Position>
+
+  <!--
+  TWR Positions-->
+
+  <Position Name="Asmara Tower" Type="ASD" DefaultCenter="+15.286492+038.897270"
+    DefaultRange="180">
+    <Sectors>
+      <Sector Name="AA ADC" />
+    </Sectors>
+    <Maps>
+      <Map Name="ALL_NAVAIDS" />
+      <Map Name="ALL_NAVAIDS_NAMES" />
+      <Map Name="COAST" />
+      <Map Name="FIR_BDRY" />
+      <Map Name="ALL_TMA" />
+      <Map Name="ALL_CTR" />
+      <Map Name="ALL_ROUTE_HIGH" />
+      <Map Name="ALL_POINTS_HIGH" />
+    </Maps>
+    <Strips Mode="Beacon" Sort="Alpha">
+      <Window Type="ADEP" Beacon="HHAS" Visible="true" />
+    </Strips>
+    <ArrivalLists>
+      <Airport Name="HHAS" />
+    </ArrivalLists>
+    <DepartureLists>
+      <Airport Name="HHAS" />
+    </DepartureLists>
+    <ControllerInfo>
+      <Line>"Asmara Tower"</Line>
+      <Line>Report Callsign, Aircraft Type and Position on Initial Contact</Line>
+      <Line>Charts: https://vats.im/NEAcharts</Line>
+      <Line>Feedback: https://vats.im/nea-feedback</Line>
+    </ControllerInfo>
+  </Position>
+
+  <Position Name="Massawa Tower" Type="ASD" DefaultCenter="+09.518089+044.089708"
+    DefaultRange="180">
+    <Sectors>
+      <Sector Name="MS ADC" />
+    </Sectors>
+    <Maps>
+      <Map Name="ALL_NAVAIDS" />
+      <Map Name="ALL_NAVAIDS_NAMES" />
+      <Map Name="COAST" />
+      <Map Name="FIR_BDRY" />
+      <Map Name="ALL_TMA" />
+      <Map Name="ALL_CTR" />
+      <Map Name="ALL_ROUTE_HIGH" />
+      <Map Name="ALL_POINTS_HIGH" />
+    </Maps>
+    <Strips Mode="Beacon" Sort="Alpha">
+      <Window Type="ADEP" Beacon="HHSM" Visible="true" />
+    </Strips>
+    <ArrivalLists>
+      <Airport Name="HHMS" />
+    </ArrivalLists>
+    <DepartureLists>
+      <Airport Name="HHMS" />
+    </DepartureLists>
+    <ControllerInfo>
+      <Line>"Massawa Tower"</Line>
+      <Line>Report Callsign, Aircraft Type and Position on Initial Contact</Line>
+      <Line>Charts: https://vats.im/NEAcharts</Line>
+      <Line>Feedback: https://vats.im/nea-feedback</Line>
+    </ControllerInfo>
+  </Position>
+
+  <Position Name="Assab Tower" Type="ASD" DefaultCenter="+11.275278+049.141389" DefaultRange="180">
+    <Sectors>
+      <Sector Name="SA ADC" />
+    </Sectors>
+    <Maps>
+      <Map Name="ALL_NAVAIDS" />
+      <Map Name="ALL_NAVAIDS_NAMES" />
+      <Map Name="COAST" />
+      <Map Name="FIR_BDRY" />
+      <Map Name="ALL_TMA" />
+      <Map Name="ALL_CTR" />
+      <Map Name="ALL_ROUTE_HIGH" />
+      <Map Name="ALL_POINTS_HIGH" />
+    </Maps>
+    <Strips Mode="Beacon" Sort="Alpha">
+      <Window Type="ADEP" Beacon="HHSB" Visible="true" />
+    </Strips>
+    <ArrivalLists>
+      <Airport Name="HHSB" />
+    </ArrivalLists>
+    <DepartureLists>
+      <Airport Name="HHSB" />
+    </DepartureLists>
+    <ControllerInfo>
+      <Line>"Assab Tower"</Line>
+      <Line>Report Callsign, Aircraft Type and Position on Initial Contact</Line>
+      <Line>Charts: https://vats.im/NEAcharts</Line>
+      <Line>Feedback: https://vats.im/nea-feedback</Line>
+    </ControllerInfo>
+  </Position>
+  
+  <Position Name="HHAS" Type="ASMGCS" ASMGCSAirport="HHAS" DefaultCenter="+15.284167+038.900833"
+    DefaultRange="3">
+    <Maps>
+      <Map Name="Asmara/HHAS_TWYS" />
+      <Map Name="Asmara/HHAS_RWYS" />
+      <Map Name="ASMGCS_TAXI_ALL" />
+    </Maps>
+  </Position>
+    <Position Name="HHSB" Type="ASMGCS" ASMGCSAirport="HHSB" DefaultCenter="+13.071783+042.645006"
+    DefaultRange="3">
+    <Maps>
+      <Map Name="Asaab/HHSB_TWYS" />
+      <Map Name="Assab/HHSB_RWYS" />
+      <Map Name="ASMGCS_TAXI_ALL" />
+    </Maps>
+  </Position>
+    <Position Name="HHMS" Type="ASMGCS" ASMGCSAirport="HHMS" DefaultCenter="+15.669989+039.370103"
+    DefaultRange="3">
+    <Maps>
+      <Map Name="Massawa/HHMS_TWYS" />
+      <Map Name="Massawa/HHMS_RWYS" />
+      <Map Name="ASMGCS_TAXI_ALL" />
+    </Maps>
+  </Position>
+
+</Positions>

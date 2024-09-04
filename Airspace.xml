@@ -1,0 +1,23 @@
+<Airspace>
+  <SystemRunways>
+  </SystemRunways>
+
+  <!--Waypoints-->
+
+  <Intersections>
+  </Intersections>
+
+  <!-- Airways (need to be reviewed) -->
+
+  <Airways>
+  </Airways>
+
+  <!--SIDs
+  and STARs-->
+
+  <SIDSTARs>
+  </SIDSTARs>
+
+  <Airports>
+  </Airports>
+</Airspace>
