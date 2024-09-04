@@ -2908,7 +2908,7 @@
     +06.300000+040.000000
   </Boundary>
 
-  <Boundary Name="OJED_S">
+  <Boundary Name="OEJD">
     +18.616667+049.116667/
     +22.829402+047.118671/
     +22.829402+047.118671/
@@ -3844,7 +3844,10 @@
   <!-- Neighbouring FIRs -->
 
   <Volume Name="GULF" LowerLimit="24000" UpperLimit="60000">
-    <Boundaries>OEJD_S,OYSC</Boundaries>
+    <Boundaries>OEJN_CTA,OEJD,OYSC</Boundaries>
+  </Volume>
+    <Volume Name="GULF_W" LowerLimit="24000" UpperLimit="60000">
+    <Boundaries>OEJN_CTA,OEJD,OYSC</Boundaries>
   </Volume>
   <Volume Name="AFRE" LowerLimit="24000" UpperLimit="60000">
     <Boundaries>HAAA_E,HAAA_W,HDAM_TMA,HSSS_N,HSSS_S,HAMK_TMA</Boundaries>
@@ -3856,27 +3859,29 @@
   <Volume Name="HSSS_S" LowerLimit="0" UpperLimit="60000">
     <Boundaries>HSSS_S</Boundaries>
   </Volume>
+
   <Volume Name="OYSC" LowerLimit="0" UpperLimit="60000">
     <Boundaries>OYSC</Boundaries>
   </Volume>
+
   <Volume Name="HAAA_E" LowerLimit="0" UpperLimit="60000">
     <Boundaries>HAAA_E</Boundaries>
   </Volume>
   <Volume Name="HAAA_W" LowerLimit="0" UpperLimit="60000">
     <Boundaries>HAAA_W</Boundaries>
   </Volume>
-  <Volume Name="OEJD" LowerLimit="0" UpperLimit="60000">
-    <Boundaries>OEJD_S</Boundaries>
-  </Volume>
-  <Volume Name="OEJN_CTA" LowerLimit="0" UpperLimit="60000">
-    <Boundaries>OEJN_CTA</Boundaries>
-  </Volume>
-
   <Volume Name="HDAM_TMA" LowerLimit="0" UpperLimit="24500">
     <Boundaries>HDAM_TMA</Boundaries>
   </Volume>
   <Volume Name="HAMK_TMA" LowerLimit="0" UpperLimit="24000">
     <Boundaries>HAMK_TMA</Boundaries>
+  </Volume>
+  
+  <Volume Name="OEJD" LowerLimit="0" UpperLimit="60000">
+    <Boundaries>OEJD</Boundaries>
+  </Volume>
+  <Volume Name="OEJN_CTA" LowerLimit="0" UpperLimit="60000">
+    <Boundaries>OEJN_CTA</Boundaries>
   </Volume>
 
 </Volumes>
