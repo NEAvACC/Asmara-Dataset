@@ -4,6 +4,7 @@
 
   <!--ACC
   Positions-->
+  <Group Name="Enroute">
 
   <Position Name="Asmara Control" Type="ASD" DefaultCenter="+16.976382+038.923062"
     DefaultRange="2500">
@@ -40,9 +41,11 @@
         <Line>Feedback: https://vats.im/nea-feedback</Line>
     </ControllerInfo>
   </Position>
+  </Group>
 
   <!--APP
   Positions-->
+  <Group Name="Enroute">
 
   <Position Name="Asmara Approach" Type="ASD" DefaultCenter="+15.286492+038.897270"
     DefaultRange="800">
@@ -106,8 +109,11 @@
     </ControllerInfo>
   </Position>
 
+  </Group>
   <!--
   TWR Positions-->
+
+  <Group Name="Control Tower">
 
   <Position Name="Asmara Tower" Type="ASD" DefaultCenter="+15.286492+038.897270"
     DefaultRange="180">
@@ -203,7 +209,8 @@
       <Line>Feedback: https://vats.im/nea-feedback</Line>
     </ControllerInfo>
   </Position>
-  
+    </Group>
+
   <Position Name="HHAS" Type="ASMGCS" ASMGCSAirport="HHAS" DefaultCenter="+15.284167+038.900833"
     DefaultRange="3">
     <Maps>
