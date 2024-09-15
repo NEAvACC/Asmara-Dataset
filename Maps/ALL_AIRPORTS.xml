@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Maps>
-    <Map Name="ALL_AIRPORTS" Priority="0" Type="System2">
-        <Symbol Type="HollowSquare">
+    <Map Name="ALL_AIRPORTS" Priority="2" Type="System">
+        <Symbol Type="Reticle">
+            <Point>HHAS</Point>
+            <Point>HHMS</Point>
+            <Point>HHSB</Point>
         </Symbol>
-        <Label hasLeader="true">
+        <Label>
+            <Point Name="HHAS">HHAS</Point>
+            <Point Name="HHMS">HHMS</Point>
+            <Point Name="HHSB">HHSB</Point>
         </Label>
     </Map>
 </Maps>

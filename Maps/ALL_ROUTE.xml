@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Maps>
+    <Map Name="ALL_ROUTES" Priority="1" Type="System">
+        <Line Name="A408">BOPSA.A408.SALEH</Line>
+        <Line Name="A451">DEKRA.A451.TOKAR</Line>
+        <Line Name="B413">LADEN.B413.KOBAS</Line>
+        <Line Name="B526">TESON.B526.FARES</Line>
+        <Line Name="G650">KONET.G650.RASKA</Line>
+        <Line Name="M999">APDOS.M999.PURAD</Line>
+        <Line Name="R775">APDOS.R775.MANDA</Line>
+        <Line Name="R780">SETIT.R780.ASM VOR</Line>
+        <Line Name="R993">ASM VOR.R993.DILKA</Line>
+        <Line Name="UA408">BOPSA.UA408.SALEH</Line>
+        <Line Name="UA451">DEKRA.UA451.TOKAR</Line>
+        <Line Name="UB413">LADEN.UB413.KOBAS</Line>
+        <Line Name="UB526">TESON.UB526.FARES</Line>
+        <Line Name="UG650">KONET.UG650.RASKA</Line>
+        <Line Name="UR775">APDOS.UR775.MANDA</Line>
+        <Line Name="UR780">SETIT.UR780.ASM VOR</Line>
+        <Line Name="UR993">ASM VOR.UR993.DILKA</Line>
+        <Line Name="UV790">FEREB.UV790.SB NDB</Line>
+        <Line Name="W180">SB NDB.W180.BARKU</Line>
+        <Symbol Type="HollowTriangle">
+            <Point>APDOS</Point>
+            <Point>BARKU</Point>
+            <Point>BOPSA</Point>
+            <Point>DEKRA</Point>
+            <Point>DILKA</Point>
+            <Point>DULAB</Point>
+            <Point>EDITO</Point>
+            <Point>EKBOR</Point>
+            <Point>FARES</Point>
+            <Point>FEREB</Point>
+            <Point>GEREK</Point>
+            <Point>IBRAD</Point>
+            <Point>IMDAX</Point>
+            <Point>KOBAS</Point>
+            <Point>KONET</Point>
+            <Point>LADEN</Point>
+            <Point>MANDA</Point>
+            <Point>OKMAB</Point>
+            <Point>PURAD</Point>
+            <Point>RASKA</Point>
+            <Point>SALEH</Point>
+            <Point>SETIT</Point>
+            <Point>SOLIR</Point>
+            <Point>TOKAR</Point>
+            <Point>TESON</Point>
+            <Point>TESOT</Point>
+            <Point>ULONI</Point>
+            <Point>ZULAC</Point>
+        </Symbol>
+    </Map>
+</Maps>

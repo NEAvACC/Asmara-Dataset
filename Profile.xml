@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Profile Name="Asmara" FullName="Eurocat Asmara (HHAA)">
-	<Version AIRAC="2407" Revision="a" PublishDate="20240711" />
+<Profile Name="Asmara" FullName="Asmara Eurocat (HHAA)">
+	<Version AIRAC="2408" Revision="A" PublishDate="20240904"
+		UpdateURL="" />
 	<Servers>
 		<VATSIMStatus url="https://status.vatsim.net/" />
 		<GRIB url="https://sawbe.com/GRIB/" />

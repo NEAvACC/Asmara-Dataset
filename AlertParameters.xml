@@ -1,11 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AlertParameters>
   <ConflictAlerts>
-    <STCA Name="TMA" LateralNM="5.0" SecondsLookahead="60" AlertPriority="1">
+    <STCA Name="TMA1" LateralNM="3.0" SecondsLookahead="60" AlertPriority="1">
       <Vertical LowerLevel="0" UpperLevel="28000" Height="600" HeightWithRVSM="600" />
       <Vertical LowerLevel="28001" UpperLevel="41000" Height="1600" HeightWithRVSM="600" />
       <Vertical LowerLevel="41001" UpperLevel="99999" Height="1600" HeightWithRVSM="1600" />
-      <Volumes>HHAS_TMA,HHSB_TMA,</Volumes>
+      <Volumes>HHAS_TMA</Volumes>
+    </STCA>
+    <STCA Name="TMA2" LateralNM="5.0" SecondsLookahead="60" AlertPriority="1">
+      <Vertical LowerLevel="0" UpperLevel="28000" Height="600" HeightWithRVSM="600" />
+      <Vertical LowerLevel="28001" UpperLevel="41000" Height="1600" HeightWithRVSM="600" />
+      <Vertical LowerLevel="41001" UpperLevel="99999" Height="1600" HeightWithRVSM="1600" />
+      <Volumes>HHSB_TMA</Volumes>
     </STCA>
     <STCA Name="ENR" LateralNM="5.0" SecondsLookahead="90" AlertPriority="1">
       <Vertical LowerLevel="0" UpperLevel="28000" Height="600" HeightWithRVSM="600" />
