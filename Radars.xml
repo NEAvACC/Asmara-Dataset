@@ -3,7 +3,6 @@
 
   <!-- SSR -->
   <Radar Name="Asmara SSR" Type="SSR_ModeC" Elevation="7661" MaxRange="256">
-  <Radar Name="Asmara SSR" Type="SSR_ModeC" Elevation="7661" MaxRange="256">
     <Lat>15.286389</Lat>
     <Long>+038.900000</Long>
   </Radar>
