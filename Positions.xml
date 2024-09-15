@@ -5,6 +5,7 @@
   <!--ACC
   Positions-->
   <Group Name="Enroute">
+  <Group Name="Enroute">
 
   <Position Name="Asmara Control" Type="ASD" DefaultCenter="+16.718188+039.041844"
     DefaultRange="1200" VisibilityRange="500">
@@ -38,8 +39,13 @@
         <Line>Covering the entire Eritrean FIR when local ATC offline</Line>
         <Line>Charts: https://vats.im/NEAcharts</Line>
         <Line>Feedback: https://vats.im/nea-feedback</Line>
+        <Line>"Asmara Control" | CPDLC [HHAA] AVIL FOR FANS 1/A EQUIP ACFT FL245+</Line>
+        <Line>Covering the entire Eritrean FIR when local ATC offline</Line>
+        <Line>Charts: https://vats.im/NEAcharts</Line>
+        <Line>Feedback: https://vats.im/nea-feedback</Line>
     </ControllerInfo>
   </Position>
+  </Group>
   </Group>
 
   <!--APP
@@ -73,6 +79,8 @@
       <Line>Report Callsign, Aircraft Type and Position on Initial Contact</Line>
       <Line>Charts: https://vats.im/NEAcharts</Line>
       <Line>Feedback: https://vats.im/nea-feedback</Line>
+      <Line>Charts: https://vats.im/NEAcharts</Line>
+      <Line>Feedback: https://vats.im/nea-feedback</Line>
     </ControllerInfo>
   </Position>
 
@@ -103,9 +111,12 @@
       <Line>Report Callsign, Aircraft Type and Position on Initial Contact</Line>
       <Line>Charts: https://vats.im/NEAcharts</Line>
       <Line>Feedback: https://vats.im/nea-feedback</Line>
+      <Line>Charts: https://vats.im/NEAcharts</Line>
+      <Line>Feedback: https://vats.im/nea-feedback</Line>
     </ControllerInfo>
   </Position>
 
+  </Group>
   </Group>
   <!--
   TWR Positions-->
@@ -141,6 +152,8 @@
       <Line>Report Callsign, Aircraft Type and Position on Initial Contact</Line>
       <Line>Charts: https://vats.im/NEAcharts</Line>
       <Line>Feedback: https://vats.im/nea-feedback</Line>
+      <Line>Charts: https://vats.im/NEAcharts</Line>
+      <Line>Feedback: https://vats.im/nea-feedback</Line>
     </ControllerInfo>
   </Position>
 
@@ -173,6 +186,8 @@
       <Line>Report Callsign, Aircraft Type and Position on Initial Contact</Line>
       <Line>Charts: https://vats.im/NEAcharts</Line>
       <Line>Feedback: https://vats.im/nea-feedback</Line>
+      <Line>Charts: https://vats.im/NEAcharts</Line>
+      <Line>Feedback: https://vats.im/nea-feedback</Line>
     </ControllerInfo>
   </Position>
 
@@ -202,6 +217,8 @@
     <ControllerInfo>
       <Line>"Assab Tower"</Line>
       <Line>Report Callsign, Aircraft Type and Position on Initial Contact</Line>
+      <Line>Charts: https://vats.im/NEAcharts</Line>
+      <Line>Feedback: https://vats.im/nea-feedback</Line>
       <Line>Charts: https://vats.im/NEAcharts</Line>
       <Line>Feedback: https://vats.im/nea-feedback</Line>
     </ControllerInfo>

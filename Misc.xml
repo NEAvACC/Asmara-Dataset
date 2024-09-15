@@ -2,6 +2,7 @@
 <Misc>
   <RVSMBand Lower="28000" Upper="41000" />
   <Transition Altitude="11500" />
+  <Transition Altitude="11500" />
   <RVSMStatus FAAEquipment="L, W, Z" ICAOEquipment="W" />
   <ADSBStatus FAAEquipment="I, L, G, Z" ICAOEquipment="B1, B2, U1, U2, V1, V2, D1, G1"
     Remark="ADSB,ADS-B,ADS,ADS-C" />
