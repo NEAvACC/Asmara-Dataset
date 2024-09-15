@@ -5,11 +5,758 @@
   <!--Waypoints-->
 
   <Intersections>
+    <Point Name="D210J" Type="Fix">+11.407239+043.002444</Point>
+  <Point Name="AM403" Type="Fix">+11.423639+042.898556</Point>
+  <Point Name="D239O" Type="Fix">+11.431317+042.877994</Point>
+  <Point Name="D239M" Type="Fix">+11.447508+042.907689</Point>
+  <Point Name="AM712" Type="Fix">+11.450000+042.924472</Point>
+  <Point Name="SW" Type="Fix">+11.467306+042.945083</Point>
+  <Point Name="D239J" Type="Fix">+11.467719+042.944847</Point>
+  <Point Name="D255J" Type="Fix">+11.510808+042.928136</Point>
+  <Point Name="FD27" Type="Fix">+11.545639+043.258194</Point>
+  <Point Name="FI27" Type="Fix">+11.545778+043.268806</Point>
+  <Point Name="AM519" Type="Fix">+11.545833+043.264806</Point>
+  <Point Name="AM518" Type="Fix">+11.545917+043.258611</Point>
+  <Point Name="OKMER" Type="Fix">+11.546111+043.229444</Point>
+  <Point Name="42LOC" Type="Fix">+11.546167+043.240000</Point>
+  <Point Name="MD27" Type="Fix">+11.547042+043.178411</Point>
+  <Point Name="AM441" Type="Fix">+11.547056+043.180222</Point>
+  <Point Name="ML27" Type="Fix">+11.547061+043.178714</Point>
+  <Point Name="AM542" Type="Fix">+11.547972+043.017361</Point>
+  <Point Name="AM541" Type="Fix">+11.548111+043.103972</Point>
+  <Point Name="30THR" Type="Fix">+11.548242+043.094122</Point>
+  <Point Name="AM710" Type="Fix">+11.549444+043.008167</Point>
+  <Point Name="AM418" Type="Fix">+11.549806+042.979028</Point>
+  <Point Name="AM420" Type="Fix">+11.549806+042.979639</Point>
+  <Point Name="D269E" Type="Fix">+11.549822+043.017153</Point>
+  <Point Name="UNBAD" Type="Fix">+11.550000+043.008611</Point>
+  <Point Name="AM416" Type="Fix">+11.550861+042.900250</Point>
+  <Point Name="D269J" Type="Fix">+11.551389+042.923778</Point>
+  <Point Name="AM400" Type="Fix">+11.551972+042.815361</Point>
+  <Point Name="D082M" Type="Fix">+11.571183+043.313061</Point>
+  <Point Name="D284J" Type="Fix">+11.594619+042.930311</Point>
+  <Point Name="D071M" Type="Fix">+11.612075+043.304669</Point>
+  <Point Name="AM402" Type="Fix">+11.644639+042.901472</Point>
+  <Point Name="NW" Type="Fix">+11.660528+042.967306</Point>
+  <Point Name="AM443" Type="Fix">+11.689806+043.146250</Point>
+  <Point Name="AM544" Type="Fix">+11.696056+043.018861</Point>
+  <Point Name="N" Type="Fix">+11.707583+043.332972</Point>
+  <Point Name="AM502" Type="Fix">+11.708750+043.345972</Point>
+  <Point Name="AM815" Type="Fix">+11.720556+043.125028</Point>
+  <Point Name="AM702" Type="Fix">+11.737194+043.078917</Point>
+  <Point Name="D054T" Type="Fix">+11.738519+043.377364</Point>
+  <Point Name="AM814" Type="Fix">+11.780861+043.303056</Point>
+  <Point Name="D054Y" Type="Fix">+11.783622+043.444850</Point>
+  <Point Name="D018Q" Type="Fix">+11.816233+043.191575</Point>
+  <Point Name="AM616" Type="Fix">+11.822667+043.197917</Point>
+  <Point Name="AM811" Type="Fix">+11.826278+043.437472</Point>
+  <Point Name="AM704" Type="Fix">+11.832472+043.363889</Point>
+  <Point Name="AM813" Type="Fix">+11.853833+043.071000</Point>
+  <Point Name="D018T" Type="Fix">+11.866622+043.210047</Point>
+  <Point Name="KASOL" Type="Fix">+11.880000+043.596111</Point>
+  <Point Name="AM905" Type="Fix">+11.922306+043.272472</Point>
+  <Point Name="AM706" Type="Fix">+11.938667+043.682722</Point>
+  <Point Name="D018Y" Type="Fix">+11.942200+043.237761</Point>
+  <Point Name="AM618" Type="Fix">+11.945917+043.047806</Point>
+  <Point Name="AM812" Type="Fix">+11.971667+043.166639</Point>
+  <Point Name="1242E" Type="Fix">+12.000000+042.000000</Point>
+  <Point Name="1243E" Type="Fix">+12.000000+043.000000</Point>
+  <Point Name="AM611" Type="Fix">+12.003444+043.586139</Point>
+  <Point Name="AM709" Type="Fix">+12.019028+043.129889</Point>
+  <Point Name="AM903" Type="Fix">+12.030111+043.235333</Point>
+  <Point Name="AM902" Type="Fix">+12.226694+043.167528</Point>
+  <Point Name="RAGAS" Type="Fix">+12.275556+042.271250</Point>
+  <Point Name="AM810" Type="Fix">+12.313639+043.232000</Point>
+  <Point Name="AM708" Type="Fix">+12.331806+043.558639</Point>
+  <Point Name="AM612" Type="Fix">+12.333778+043.557917</Point>
+  <Point Name="PARIM" Type="Fix">+12.533889+043.454167</Point>
+  <Point Name="MANDA" Type="Fix">+12.591944+042.788889</Point>
+  <Point Name="ARABO" Type="Fix">+12.647778+044.066944</Point>
+  <Point Name="DEKRA" Type="Fix">+12.656667+043.262222</Point>
+  <Point Name="SB41" Type="Fix">+12.681667+043.225000</Point>
+  <Point Name="1341E" Type="Fix">+13.000000+041.000000</Point>
+  <Point Name="1342E" Type="Fix">+13.000000+042.000000</Point>
+  <Point Name="1343E" Type="Fix">+13.000000+043.000000</Point>
+  <Point Name="1344E" Type="Fix">+13.000000+044.000000</Point>
+  <Point Name="BOPSA" Type="Fix">+13.200000+041.830000</Point>
+  <Point Name="GABKA" Type="Fix">+13.314722+037.484444</Point>
+  <Point Name="ETOBU" Type="Fix">+13.358889+037.575833</Point>
+  <Point Name="IBRAD" Type="Fix">+13.431667+042.000000</Point>
+  <Point Name="NIWAY" Type="Fix">+13.479361+038.774536</Point>
+  <Point Name="AXENA" Type="Fix">+13.483056+038.805278</Point>
+  <Point Name="MD11" Type="Fix">+13.485967+039.489614</Point>
+  <Point Name="MK113" Type="Fix">+13.503222+039.441417</Point>
+  <Point Name="TEXOL" Type="Fix">+13.505278+038.402500</Point>
+  <Point Name="MK005" Type="Fix">+13.506683+039.823747</Point>
+  <Point Name="MK104" Type="Fix">+13.509250+039.281278</Point>
+  <Point Name="MK112" Type="Fix">+13.529194+039.374639</Point>
+  <Point Name="FD11" Type="Fix">+13.532711+039.365022</Point>
+  <Point Name="OKMAB" Type="Fix">+13.550000+042.083333</Point>
+  <Point Name="EKBAK" Type="Fix">+13.566667+038.437222</Point>
+  <Point Name="DASEN" Type="Fix">+13.568425+038.433464</Point>
+  <Point Name="MK105" Type="Fix">+13.580111+039.306083</Point>
+  <Point Name="UVMIR" Type="Fix">+13.581389+038.793889</Point>
+  <Point Name="MK111" Type="Fix">+13.590778+039.215528</Point>
+  <Point Name="XUBIG" Type="Fix">+13.598333+038.678889</Point>
+  <Point Name="AXAGA" Type="Fix">+13.625833+038.471389</Point>
+  <Point Name="GETUL" Type="Fix">+13.630556+038.341389</Point>
+  <Point Name="MK106" Type="Fix">+13.636222+039.343667</Point>
+  <Point Name="EPVER" Type="Fix">+13.641667+038.350556</Point>
+  <Point Name="EDITO" Type="Fix">+13.655000+042.155000</Point>
+  <Point Name="MK006" Type="Fix">+13.655772+039.801583</Point>
+  <Point Name="ALRAP" Type="Fix">+13.662500+036.228889</Point>
+  <Point Name="UDMUL" Type="Fix">+13.674722+038.098056</Point>
+  <Point Name="TILUD" Type="Fix">+13.687778+037.997222</Point>
+  <Point Name="NAISO" Type="Fix">+13.692953+039.280147</Point>
+  <Point Name="APKAM" Type="Fix">+13.693056+039.280000</Point>
+  <Point Name="DEBRE" Type="Fix">+13.742675+038.914417</Point>
+  <Point Name="MK202" Type="Fix">+13.761556+039.213917</Point>
+  <Point Name="AX001" Type="Fix">+13.808939+038.891200</Point>
+  <Point Name="GERIG" Type="Fix">+13.830228+036.881125</Point>
+  <Point Name="AX003" Type="Fix">+13.830236+038.713572</Point>
+  <Point Name="MK203" Type="Fix">+13.838806+039.365750</Point>
+  <Point Name="UTVEX" Type="Fix">+13.846667+038.760000</Point>
+  <Point Name="SOLIR" Type="Fix">+13.873333+042.321667</Point>
+  <Point Name="EVEDA" Type="Fix">+13.907778+038.634444</Point>
+  <Point Name="DUTMI" Type="Fix">+13.929167+038.590556</Point>
+  <Point Name="AX002" Type="Fix">+13.932367+038.984283</Point>
+  <Point Name="AX004" Type="Fix">+13.935150+038.846950</Point>
+  <Point Name="D158J" Type="Fix">+13.979322+038.831458</Point>
+  <Point Name="AX008" Type="Fix">+13.982517+038.705839</Point>
+  <Point Name="1436E" Type="Fix">+14.000000+036.000000</Point>
+  <Point Name="1437E" Type="Fix">+14.000000+037.000000</Point>
+  <Point Name="1438E" Type="Fix">+14.000000+038.000000</Point>
+  <Point Name="1439E" Type="Fix">+14.000000+039.000000</Point>
+  <Point Name="1440E" Type="Fix">+14.000000+040.000000</Point>
+  <Point Name="1441E" Type="Fix">+14.000000+041.000000</Point>
+  <Point Name="1442E" Type="Fix">+14.000000+042.000000</Point>
+  <Point Name="SALEH" Type="Fix">+14.000000+042.416667</Point>
+  <Point Name="1443E" Type="Fix">+14.000000+043.000000</Point>
+  <Point Name="AX005" Type="Fix">+14.013903+038.819269</Point>
+  <Point Name="TEXOK" Type="Fix">+14.039722+038.895000</Point>
+  <Point Name="TIDEG" Type="Fix">+14.045833+039.455278</Point>
+  <Point Name="GEREK" Type="Fix">+14.055000+041.000000</Point>
+  <Point Name="TIMAG" Type="Fix">+14.086944+038.265556</Point>
+  <Point Name="AX006" Type="Fix">+14.092900+038.791569</Point>
+  <Point Name="IMKUM" Type="Fix">+14.147222+038.773056</Point>
+  <Point Name="AX007" Type="Fix">+14.187503+038.758081</Point>
+  <Point Name="ORNIS" Type="Fix">+14.270833+042.615833</Point>
+  <Point Name="EKBOR" Type="Fix">+14.418333+040.366667</Point>
+  <Point Name="SETIT" Type="Fix">+14.483333+039.333333</Point>
+  <Point Name="EVITO" Type="Fix">+14.486389+038.406667</Point>
+  <Point Name="KONET" Type="Fix">+14.500000+038.900000</Point>
+  <Point Name="DILKA" Type="Fix">+14.500000+039.800000</Point>
+  <Point Name="FS03" Type="Fix">+14.668400+042.931775</Point>
+  <Point Name="40THR" Type="Fix">+14.825089+043.013092</Point>
+  <Point Name="EMABA" Type="Fix">+14.860556+042.328611</Point>
+  <Point Name="FS21" Type="Fix">+14.862281+043.033292</Point>
+  <Point Name="EGTAD" Type="Fix">+14.873611+035.708056</Point>
+  <Point Name="80THR" Type="Fix">+14.885053+043.043706</Point>
+  <Point Name="FARES" Type="Fix">+14.900000+042.016667</Point>
+  <Point Name="PURAD" Type="Fix">+14.916667+041.898333</Point>
+  <Point Name="HAMED" Type="Fix">+14.930000+043.066667</Point>
+  <Point Name="HH110" Type="Fix">+14.952539+038.948783</Point>
+  <Point Name="1536E" Type="Fix">+15.000000+036.000000</Point>
+  <Point Name="1537E" Type="Fix">+15.000000+037.000000</Point>
+  <Point Name="1538E" Type="Fix">+15.000000+038.000000</Point>
+  <Point Name="1539E" Type="Fix">+15.000000+039.000000</Point>
+  <Point Name="1540E" Type="Fix">+15.000000+040.000000</Point>
+  <Point Name="1541E" Type="Fix">+15.000000+041.000000</Point>
+  <Point Name="1542E" Type="Fix">+15.000000+042.000000</Point>
+  <Point Name="1543E" Type="Fix">+15.000000+043.000000</Point>
+  <Point Name="KIPAM" Type="Fix">+15.008333+042.257222</Point>
+  <Point Name="ZULAC" Type="Fix">+15.026667+041.018333</Point>
+  <Point Name="NAGMA" Type="Fix">+15.026667+043.020000</Point>
+  <Point Name="SKETI" Type="Fix">+15.062336+038.695519</Point>
+  <Point Name="MIPIN" Type="Fix">+15.102222+042.626389</Point>
+  <Point Name="TESOT" Type="Fix">+15.116667+040.283333</Point>
+  <Point Name="HH104" Type="Fix">+15.162161+038.628633</Point>
+  <Point Name="DIGSA" Type="Fix">+15.200797+039.199094</Point>
+  <Point Name="HH101" Type="Fix">+15.220719+038.662053</Point>
+  <Point Name="CI07" Type="Fix">+15.229747+038.695356</Point>
+  <Point Name="ERSAL" Type="Fix">+15.231111+042.484722</Point>
+  <Point Name="NEFHI" Type="Fix">+15.238647+038.727756</Point>
+  <Point Name="CD07" Type="Fix">+15.250728+038.731931</Point>
+  <Point Name="FN07" Type="Fix">+15.251008+038.775317</Point>
+  <Point Name="FI07" Type="Fix">+15.252442+038.778322</Point>
+  <Point Name="HH102" Type="Fix">+15.253169+038.601736</Point>
+  <Point Name="FD07" Type="Fix">+15.260856+038.782589</Point>
+  <Point Name="MD07" Type="Fix">+15.279397+038.875475</Point>
+  <Point Name="HH204" Type="Fix">+15.318408+039.209503</Point>
+  <Point Name="DIRFO" Type="Fix">+15.336783+039.087797</Point>
+  <Point Name="TESON" Type="Fix">+15.348333+037.178333</Point>
+  <Point Name="HH201" Type="Fix">+15.354683+039.153547</Point>
+  <Point Name="KAMRN" Type="Fix">+15.363333+042.605000</Point>
+  <Point Name="LEZAN" Type="Fix">+15.366878+038.602400</Point>
+  <Point Name="HH202" Type="Fix">+15.410667+039.187575</Point>
+  <Point Name="DOGOL" Type="Fix">+15.507825+039.108764</Point>
+  <Point Name="CI07" Type="Fix">+15.622797+039.187428</Point>
+  <Point Name="FI07" Type="Fix">+15.644375+039.270867</Point>
+  <Point Name="APDOS" Type="Fix">+15.665278+041.663056</Point>
+  <Point Name="D282J" Type="Fix">+15.702603+039.184700</Point>
+  <Point Name="RIBOK" Type="Fix">+15.783333+041.875000</Point>
+  <Point Name="1637E" Type="Fix">+16.000000+037.000000</Point>
+  <Point Name="1638E" Type="Fix">+16.000000+038.000000</Point>
+  <Point Name="1639E" Type="Fix">+16.000000+039.000000</Point>
+  <Point Name="1640E" Type="Fix">+16.000000+040.000000</Point>
+  <Point Name="1641E" Type="Fix">+16.000000+041.000000</Point>
+  <Point Name="1642E" Type="Fix">+16.000000+042.000000</Point>
+  <Point Name="LAKNA" Type="Fix">+16.000000+042.000000</Point>
+  <Point Name="DANAK" Type="Fix">+16.133333+041.483333</Point>
+  <Point Name="IMDAX" Type="Fix">+16.316667+038.933333</Point>
+  <Point Name="NISMI" Type="Fix">+16.405000+042.310000</Point>
+  <Point Name="BARKU" Type="Fix">+16.853333+038.296667</Point>
+  <Point Name="LABNI" Type="Fix">+16.938889+041.155833</Point>
+  <Point Name="1737E" Type="Fix">+17.000000+037.000000</Point>
+  <Point Name="1738E" Type="Fix">+17.000000+038.000000</Point>
+  <Point Name="1739E" Type="Fix">+17.000000+039.000000</Point>
+  <Point Name="1740E" Type="Fix">+17.000000+040.000000</Point>
+  <Point Name="1741E" Type="Fix">+17.000000+041.000000</Point>
+  <Point Name="KOBAS" Type="Fix">+17.074444+040.341389</Point>
+  <Point Name="IMLIL" Type="Fix">+17.330278+040.538611</Point>
+  <Point Name="ULONI" Type="Fix">+17.426667+038.978333</Point>
+  <Point Name="1837E" Type="Fix">+18.000000+037.000000</Point>
+  <Point Name="1838E" Type="Fix">+18.000000+038.000000</Point>
+  <Point Name="1839E" Type="Fix">+18.000000+039.000000</Point>
+  <Point Name="1840E" Type="Fix">+18.000000+040.000000</Point>
+  <Point Name="TOKAR" Type="Fix">+18.106667+037.803333</Point>
+  <Point Name="DULAB" Type="Fix">+18.168333+039.005000</Point>
+  <Point Name="FEREB" Type="Fix">+18.575000+037.971667</Point>
+  <Point Name="DAPEN" Type="Fix">+18.705556+037.544722</Point>
+  <Point Name="PSD37" Type="Fix">+18.859467+037.556967</Point>
+  <Point Name="PSD35" Type="Fix">+18.867931+037.474236</Point>
+  <Point Name="LADEN" Type="Fix">+18.895000+038.085000</Point>
+  <Point Name="PN824" Type="Fix">+18.917025+037.421692</Point>
+  <Point Name="PSD28" Type="Fix">+18.943922+037.348961</Point>
+  <Point Name="NABUT" Type="Fix">+18.998889+037.911667</Point>
+  <Point Name="1938E" Type="Fix">+19.000000+038.000000</Point>
+  <Point Name="1939E" Type="Fix">+19.000000+039.000000</Point>
+  <Point Name="1940E" Type="Fix">+19.000000+040.000000</Point>
+  <Point Name="D172U" Type="Fix">+19.051158+037.273919</Point>
+  <Point Name="PN516" Type="Fix">+19.055322+037.106872</Point>
+  <Point Name="D164U" Type="Fix">+19.058214+037.322214</Point>
+  <Point Name="D197U" Type="Fix">+19.070969+037.115331</Point>
+  <Point Name="D156U" Type="Fix">+19.073111+037.374147</Point>
+  <Point Name="PN510" Type="Fix">+19.089000+037.224847</Point>
+  <Point Name="PN826" Type="Fix">+19.094133+037.524489</Point>
+  <Point Name="PSD33" Type="Fix">+19.106431+037.733286</Point>
+  <Point Name="RADSI" Type="Fix">+19.107211+037.310736</Point>
+  <Point Name="PN508" Type="Fix">+19.125383+037.396642</Point>
+  <Point Name="RASKA" Type="Fix">+19.125556+039.058056</Point>
+  <Point Name="PN770" Type="Fix">+19.153056+037.655556</Point>
+  <Point Name="D119Y" Type="Fix">+19.178006+037.614281</Point>
+  <Point Name="PN504" Type="Fix">+19.205878+037.287597</Point>
+  <Point Name="CD34Z" Type="Fix">+19.229306+037.280175</Point>
+  <Point Name="CI34Y" Type="Fix">+19.229328+037.282083</Point>
+  <Point Name="PN810" Type="Fix">+19.266100+037.402094</Point>
+  <Point Name="PN586" Type="Fix">+19.287878+037.370072</Point>
+  <Point Name="FI34Y" Type="Fix">+19.302811+037.264831</Point>
+  <Point Name="FD34Z" Type="Fix">+19.302953+037.263706</Point>
+  <Point Name="PN502" Type="Fix">+19.303853+037.264592</Point>
+  <Point Name="FS34Y" Type="Fix">+19.313950+037.261244</Point>
+  <Point Name="SOBIT" Type="Fix">+19.314000+037.262167</Point>
+  <Point Name="PN802" Type="Fix">+19.329933+037.258464</Point>
+  <Point Name="52LOC" Type="Fix">+19.340369+037.256006</Point>
+  <Point Name="ROXIG" Type="Fix">+19.341000+037.255833</Point>
+  <Point Name="PN400" Type="Fix">+19.379331+037.246844</Point>
+  <Point Name="PN585" Type="Fix">+19.390469+037.353294</Point>
+  <Point Name="PN720" Type="Fix">+19.411583+037.398919</Point>
+  <Point Name="PN528" Type="Fix">+19.480903+037.442328</Point>
+  <Point Name="PATUS" Type="Fix">+19.495833+039.622222</Point>
+  <Point Name="PN412" Type="Fix">+19.503347+037.381797</Point>
+  <Point Name="ORNAG" Type="Fix">+19.522208+037.636086</Point>
+  <Point Name="D018I" Type="Fix">+19.542039+037.297792</Point>
+  <Point Name="PN710" Type="Fix">+19.605331+037.323378</Point>
+  <Point Name="PN804" Type="Fix">+19.635950+037.467892</Point>
+  <Point Name="GEPIT" Type="Fix">+19.956667+037.778333</Point>
+  <Point Name="2038E" Type="Fix">+20.000000+038.000000</Point>
+  <Point Name="2039E" Type="Fix">+20.000000+039.000000</Point>
+  <Point Name="ALKET" Type="Fix">+20.105278+037.523056</Point>
+  <Point Name="BOGUM" Type="Fix">+20.110000+038.050000</Point>
+  <Point Name="MAHDI" Type="Fix">+20.433333+037.655000</Point>
+  <Point Name="MIPOL" Type="Fix">+20.556111+038.362500</Point>
+  <Point Name="RIBAM" Type="Fix">+20.708556+039.097583</Point>
+  <Point Name="EGMEG" Type="Fix">+20.858250+038.559917</Point>
+  <Point Name="TADMA" Type="Fix">+20.928333+038.816417</Point>
+  <Point Name="DUNGU" Type="Fix">+20.941389+038.266389</Point>
+  <Point Name="KAROX" Type="Fix">+20.954722+038.263056</Point>
+  <Point Name="JN910" Type="Fix">+20.959444+038.626389</Point>
+    <Point Name="DTI" Type="Navaid" NavaidType="VOR" Frequency="113.90">+11.548519+043.093547</Point>
+  <Point Name="ABI" Type="Navaid" NavaidType="VOR" Frequency="114.60">+11.549222+043.154861</Point>
+  <Point Name="SB" Type="Navaid" NavaidType="NDB" Frequency="345.00">+13.066667+042.633333</Point>
+  <Point Name="QHA" Type="Navaid" NavaidType="VOR" Frequency="116.60">+13.472772+039.524747</Point>
+  <Point Name="MK" Type="Navaid" NavaidType="NDB" Frequency="256.00">+13.476844+039.509206</Point>
+  <Point Name="AX" Type="Navaid" NavaidType="NDB" Frequency="440.00">+14.145967+038.776331</Point>
+  <Point Name="HD" Type="Navaid" NavaidType="NDB" Frequency="368.00">+14.760167+042.973167</Point>
+  <Point Name="HDH" Type="Navaid" NavaidType="VOR" Frequency="114.20">+14.772806+042.986417</Point>
+  <Point Name="AS" Type="Navaid" NavaidType="NDB" Frequency="305.00">+15.281592+038.885078</Point>
+  <Point Name="ASM" Type="Navaid" NavaidType="VOR" Frequency="113.70">+15.284447+038.900811</Point>
+  <Point Name="KSL" Type="Navaid" NavaidType="VOR" Frequency="114.80">+15.407639+036.337222</Point>
+  <Point Name="MS" Type="Navaid" NavaidType="NDB" Frequency="230.00">+15.663317+039.346408</Point>
+  <Point Name="PSD" Type="Navaid" NavaidType="VOR" Frequency="113.10">+19.401144+037.241725</Point>
   </Intersections>
 
   <!-- Airways (need to be reviewed) -->
 
   <Airways>
+    <Airway Name="A408">
+    BOPSA/
+    IBRAD/
+    OKMAB/
+    EDITO/
+    SOLIR/
+    SALEH/
+    ORNIS/
+    HDH VOR
+  </Airway>
+  <Airway Name="A451">
+    DEKRA/
+    SB41/
+    SB NDB/
+    IBRAD/
+    GEREK/
+    EKBOR/
+    ASM VOR/
+    BARKU/
+    TOKAR
+  </Airway>
+  <Airway Name="B407">
+    PSD VOR/
+    MAHDI/
+    KAROX
+  </Airway>
+  <Airway Name="B413">
+    LADEN/
+    DULAB/
+    KOBAS/
+    DANAK/
+    RIBOK/
+    ERSAL/
+    MIPIN/
+    HDH VOR
+  </Airway>
+  <Airway Name="B526">
+    KSL VOR/
+    TESON/
+    ASM VOR/
+    ZULAC/
+    PURAD/
+    FARES/
+    EMABA/
+    HDH VOR
+  </Airway>
+  <Airway Name="B535">
+    KASOL/
+    DTI VOR
+  </Airway>
+  <Airway Name="G650">
+    KONET/
+    ASM VOR/
+    ULONI/
+    DULAB/
+    RASKA/
+    RIBAM
+  </Airway>
+  <Airway Name="G660">
+    PSD VOR/
+    BOGUM/
+    MIPOL/
+    EGMEG
+  </Airway>
+  <Airway Name="G667">
+    DTI VOR/
+    PARIM
+  </Airway>
+  <Airway Name="L311">
+    MAHDI/
+    KAROX
+  </Airway>
+  <Airway Name="L317">
+    MAHDI
+  </Airway>
+  <Airway Name="L320">
+    KAROX
+  </Airway>
+  <Airway Name="L427">
+    KAROX
+  </Airway>
+  <Airway Name="L561">
+    MAHDI
+  </Airway>
+  <Airway Name="L564">
+    PARIM
+  </Airway>
+  <Airway Name="L677">
+    RIBAM/
+    PATUS
+  </Airway>
+  <Airway Name="M301">
+    PURAD/
+    KIPAM/
+    MIPIN
+  </Airway>
+  <Airway Name="M308">
+    TEXOK/
+    KONET
+  </Airway>
+  <Airway Name="M318">
+    HDH VOR
+  </Airway>
+  <Airway Name="M320">
+    EGTAD/
+    MIPOL
+  </Airway>
+  <Airway Name="M554">
+    TOKAR/
+    MIPOL
+  </Airway>
+  <Airway Name="M559">
+    RIBAM/
+    PATUS/
+    IMLIL/
+    LABNI/
+    NISMI
+  </Airway>
+  <Airway Name="M562">
+    PSD VOR/
+    BOGUM/
+    MIPOL
+  </Airway>
+  <Airway Name="M565">
+    EGTAD/
+    ALRAP
+  </Airway>
+  <Airway Name="M999">
+    LABNI/
+    DANAK/
+    APDOS/
+    PURAD
+  </Airway>
+  <Airway Name="N303">
+    RIBOK/
+    KIPAM/
+    EMABA/
+    ORNIS/
+    PARIM
+  </Airway>
+  <Airway Name="N720">
+    PSD VOR/
+    FEREB
+  </Airway>
+  <Airway Name="P556">
+    BOGUM
+  </Airway>
+  <Airway Name="P751">
+    PSD VOR/
+    TOKAR/
+    DEKRA/
+    PARIM/
+    ARABO
+  </Airway>
+  <Airway Name="Q563">
+    PSD VOR/
+    MAHDI
+  </Airway>
+  <Airway Name="R775">
+    APDOS/
+    PURAD/
+    SOLIR/
+    SB NDB/
+    MANDA
+  </Airway>
+  <Airway Name="R777">
+    DANAK/
+    LAKNA/
+    ARABO
+  </Airway>
+  <Airway Name="R780">
+    SETIT/
+    ASM VOR
+  </Airway>
+  <Airway Name="R993">
+    ASM VOR/
+    DILKA
+  </Airway>
+  <Airway Name="T111">
+    QHA VOR
+  </Airway>
+  <Airway Name="T112">
+    QHA VOR
+  </Airway>
+  <Airway Name="T113">
+    QHA VOR
+  </Airway>
+  <Airway Name="T114">
+    QHA VOR
+  </Airway>
+  <Airway Name="T119">
+    QHA VOR
+  </Airway>
+  <Airway Name="T124">
+    ALRAP
+  </Airway>
+  <Airway Name="T222">
+    QHA VOR
+  </Airway>
+  <Airway Name="T223">
+    TEXOL/
+    AXAGA/
+    EVEDA/
+    IMKUM
+  </Airway>
+  <Airway Name="T224">
+    UDMUL/
+    TIMAG
+  </Airway>
+  <Airway Name="T226">
+    GERIG
+  </Airway>
+  <Airway Name="T227">
+    GERIG
+  </Airway>
+  <Airway Name="T228">
+    QHA VOR
+  </Airway>
+  <Airway Name="T333">
+    EPVER/
+    DUTMI/
+    IMKUM
+  </Airway>
+  <Airway Name="T334">
+    GERIG/
+    GABKA
+  </Airway>
+  <Airway Name="T335">
+    TIMAG/
+    EPVER/
+    TEXOL
+  </Airway>
+  <Airway Name="T336">
+    IMKUM/
+    UTVEX/
+    UVMIR
+  </Airway>
+  <Airway Name="T337">
+    QHA VOR
+  </Airway>
+  <Airway Name="T338">
+    GERIG/
+    TILUD/
+    UDMUL/
+    EPVER/
+    AXAGA/
+    XUBIG/
+    UVMIR/
+    QHA VOR
+  </Airway>
+  <Airway Name="T339">
+    GERIG/
+    TIMAG
+  </Airway>
+  <Airway Name="T444">
+    TIMAG/
+    DUTMI/
+    EVEDA/
+    UTVEX/
+    QHA VOR
+  </Airway>
+  <Airway Name="T445">
+    IMKUM/
+    TEXOK/
+    QHA VOR
+  </Airway>
+  <Airway Name="T513">
+    RASKA/
+    EGMEG
+  </Airway>
+  <Airway Name="UA408">
+    BOPSA/
+    IBRAD/
+    OKMAB/
+    EDITO/
+    SOLIR/
+    SALEH
+  </Airway>
+  <Airway Name="UA451">
+    DEKRA/
+    SB41/
+    SB NDB/
+    IBRAD/
+    GEREK/
+    EKBOR/
+    ASM VOR/
+    BARKU/
+    TOKAR
+  </Airway>
+  <Airway Name="UB413">
+    LADEN/
+    DULAB/
+    KOBAS
+  </Airway>
+  <Airway Name="UB526">
+    KSL VOR/
+    TESON/
+    ASM VOR/
+    ZULAC/
+    PURAD/
+    FARES
+  </Airway>
+  <Airway Name="UB535">
+    DTI VOR/
+    KASOL
+  </Airway>
+  <Airway Name="UG650">
+    KONET/
+    ASM VOR/
+    ULONI/
+    DULAB/
+    RASKA
+  </Airway>
+  <Airway Name="UG667">
+    DTI VOR/
+    PARIM
+  </Airway>
+  <Airway Name="UL432">
+    BOPSA
+  </Airway>
+  <Airway Name="UM308">
+    TEXOK/
+    KONET
+  </Airway>
+  <Airway Name="UM997">
+    DTI VOR
+  </Airway>
+  <Airway Name="UN303">
+    PARIM/
+    KASOL
+  </Airway>
+  <Airway Name="UR775">
+    APDOS/
+    PURAD/
+    SOLIR/
+    SB NDB/
+    MANDA/
+    DTI VOR
+  </Airway>
+  <Airway Name="UR780">
+    SETIT/
+    ASM VOR
+  </Airway>
+  <Airway Name="UR993">
+    ASM VOR/
+    DILKA
+  </Airway>
+  <Airway Name="UT111">
+    QHA VOR
+  </Airway>
+  <Airway Name="UT112">
+    QHA VOR
+  </Airway>
+  <Airway Name="UT113">
+    QHA VOR
+  </Airway>
+  <Airway Name="UT114">
+    QHA VOR
+  </Airway>
+  <Airway Name="UT119">
+    QHA VOR
+  </Airway>
+  <Airway Name="UT124">
+    ALRAP
+  </Airway>
+  <Airway Name="UT222">
+    QHA VOR
+  </Airway>
+  <Airway Name="UT223">
+    TEXOL/
+    AXAGA/
+    EVEDA/
+    IMKUM
+  </Airway>
+  <Airway Name="UT224">
+    UDMUL/
+    TIMAG
+  </Airway>
+  <Airway Name="UT226">
+    GERIG
+  </Airway>
+  <Airway Name="UT227">
+    GERIG
+  </Airway>
+  <Airway Name="UT228">
+    QHA VOR
+  </Airway>
+  <Airway Name="UT333">
+    EPVER/
+    DUTMI/
+    IMKUM
+  </Airway>
+  <Airway Name="UT334">
+    GERIG/
+    GABKA
+  </Airway>
+  <Airway Name="UT335">
+    TIMAG/
+    EPVER/
+    TEXOL
+  </Airway>
+  <Airway Name="UT336">
+    IMKUM/
+    UTVEX/
+    UVMIR
+  </Airway>
+  <Airway Name="UT337">
+    QHA VOR
+  </Airway>
+  <Airway Name="UT338">
+    GERIG/
+    TILUD/
+    UDMUL/
+    EPVER/
+    AXAGA/
+    XUBIG/
+    UVMIR/
+    QHA VOR
+  </Airway>
+  <Airway Name="UT339">
+    GERIG/
+    TIMAG
+  </Airway>
+  <Airway Name="UT444">
+    TIMAG/
+    DUTMI/
+    EVEDA/
+    UTVEX/
+    QHA VOR
+  </Airway>
+  <Airway Name="UT445">
+    IMKUM/
+    TEXOK/
+    QHA VOR
+  </Airway>
+  <Airway Name="UV790">
+    FEREB/
+    ULONI/
+    ZULAC/
+    EDITO/
+    SB NDB
+  </Airway>
+  <Airway Name="V395">
+    LABNI
+  </Airway>
+  <Airway Name="V635">
+    KAMRN
+  </Airway>
+  <Airway Name="W180">
+    SB NDB/
+    OKMAB/
+    TESOT/
+    IMDAX/
+    BARKU
+  </Airway>
+  <Airway Name="Y866">
+    KSL VOR
+  </Airway>
   </Airways>
 
   <!--SIDs
@@ -19,5 +766,17 @@
   </SIDSTARs>
 
   <Airports>
+    <Airport ICAO="HHAS" FullName="ASMARA_INTL" Position="+15.284167+038.900833" Elevation="7661">
+    <Runway Name="07" Position="+15.284156+038.894461" />
+    <Runway Name="25" Position="+15.291497+038.921358" />
+  </Airport>
+  <Airport ICAO="HHMS" FullName="MASSAWA_INTL" Position="+15.669989+039.370103" Elevation="194">
+    <Runway Name="07" Position="+15.665933+039.354375" />
+    <Runway Name="25" Position="+15.674047+039.385833" />
+  </Airport>
+  <Airport ICAO="HHSB" FullName="ASSAB_INTL" Position="+13.066667+042.633333" Elevation="46">
+    <Runway Name="12" Position="+13.079669+042.631164" />
+    <Runway Name="30" Position="+13.063792+042.659028" />
+  </Airport>
   </Airports>
 </Airspace>

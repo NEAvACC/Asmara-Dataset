@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="Ground_INF" Name="ASMGCS_TAXI_ALL" Priority="0">
+    <Label HasLeader="False" Alignment="Center" VerticalAlignment="Middle">
+            <!-- HHAS -->
+            <Point Name="07">+15.284150+038.894647</Point>
+            <Point Name="25">+15.291311+038.920775</Point>
+            <!-- HHSB-->
+            <Point Name="30">+13.064305+042.658547</Point>
+            <Point Name="12">+13.079603+042.631233</Point>
+            <!-- HHMS-->
+            <Point Name="07">+15.666178+039.354897</Point>
+            <Point Name="25">+15.673992+039.385381</Point>
+        </Label>
+    </Map>
+</Maps>

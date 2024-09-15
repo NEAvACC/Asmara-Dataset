@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Maps>
+    <Map Name="ALL_POINTS" Priority="1" Type="System">
+        <Label>
+            <Point Name="APDOS">APDOS</Point>
+            <Point Name="BARKU">BARKU</Point>
+            <Point Name="BOPSA">BOPSA</Point>
+            <Point Name="DEKRA">DEKRA</Point>
+            <Point Name="DILKA">DILKA</Point>
+            <Point Name="DULAB">DULAB</Point>
+            <Point Name="EDITO">EDITO</Point>
+            <Point Name="EKBOR">EKBOR</Point>
+            <Point Name="FARES">FARES</Point>
+            <Point Name="FEREB">FEREB</Point>
+            <Point Name="GEREK">GEREK</Point>
+            <Point Name="IBRAD">IBRAD</Point>
+            <Point Name="IMDAX">IMDAX</Point>
+            <Point Name="KOBAS">KOBAS</Point>
+            <Point Name="KONET">KONET</Point>
+            <Point Name="LADEN">LADEN</Point>
+            <Point Name="MANDA">MANDA</Point>
+            <Point Name="OKMAB">OKMAB</Point>
+            <Point Name="PURAD">PURAD</Point>
+            <Point Name="RASKA">RASKA</Point>
+            <Point Name="SALEH">SALEH</Point>
+            <Point Name="SETIT">SETIT</Point>
+            <Point Name="SOLIR">SOLIR</Point>
+            <Point Name="TOKAR">TOKAR</Point>
+            <Point Name="TESON">TESON</Point>
+            <Point Name="TESOT">TESOT</Point>
+            <Point Name="ULONI">ULONI</Point>
+            <Point Name="ZULAC">ZULAC</Point>
+        </Label>
+        </Map>
+</Maps>

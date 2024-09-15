@@ -3,6 +3,7 @@
 
   <!-- SSR -->
   <Radar Name="Asmara SSR" Type="SSR_ModeC" Elevation="7661" MaxRange="256">
+  <Radar Name="Asmara SSR" Type="SSR_ModeC" Elevation="7661" MaxRange="256">
     <Lat>15.286389</Lat>
     <Long>+038.900000</Long>
   </Radar>
@@ -10,97 +11,5 @@
     <Lat>13.066667</Lat>
     <Long>+042.633333</Long>
   </Radar>
-
-  <!--Ground
-  Radars-->
-  <Radar Name="HHAS_SMR" Type="SMR_ADSB" Elevation="28" MaxRange="5">
-    <Lat>+15.284167</Lat>
-    <Long>+038.900833</Long>
-  </Radar>
-  <Radar Name="HHAS_SMR" Type="SMR" Elevation="28" MaxRange="5">
-    <Lat>+15.284167</Lat>
-    <Long>+038.900833</Long>
-  </Radar>
-  <Radar Name="HHSB_SMR" Type="SMR_ADSB" Elevation="28" MaxRange="5">
-    <Lat>+13.071783</Lat>
-    <Long>+042.645006</Long>
-  </Radar>
-  <Radar Name="HHSB_SMR" Type="SMR" Elevation="28" MaxRange="5">
-    <Lat>+13.071783</Lat>
-    <Long>+042.645006</Long>
-  </Radar>
-  <Radar Name="HHMS_SMR" Type="SMR_ADSB" Elevation="28" MaxRange="5">
-    <Lat>+15.669989</Lat>
-    <Long>+039.370103</Long>
-  </Radar>
-  <Radar Name="HHMS_SMR" Type="SMR" Elevation="28" MaxRange="5">
-    <Lat>+15.669989</Lat>
-    <Long>+039.370103</Long>
-  </Radar>
-  <!--Neighboring
-  FIR Radars-->
-
-  <!-- HAAA-->
-  <Radar Name="Axum" Type="ADSB" Elevation="6960" MaxRange="250">
-    <Lat>14.146667</Lat>
-    <Long>+038.776667</Long>
-  </Radar>
-  <Radar Name="Djibouti" Type="PRI" Elevation="49" MaxRange="60">
-    <Lat>11.550000</Lat>
-    <Long>+043.155000</Long>
-  </Radar>
-  <Radar Name="Djibouti" Type="SSR_ModeC" Elevation="49" MaxRange="256">
-    <Lat>11.550000</Lat>
-    <Long>+043.155000</Long>
-  </Radar>
-
-  <!-- OEJD-->
-  <Radar Name="Jeddah PSR" Type="PRI" Elevation="170" MaxRange="80">
-    <Lat>21.713498</Lat>
-    <Long>+039.152441</Long>
-  </Radar>
-  <Radar Name="Jeddah SSR" Type="SSR_ModeS" Elevation="170" MaxRange="256">
-    <Lat>21.713498</Lat>
-    <Long>+039.152441</Long>
-  </Radar>
-  <Radar Name="Jeddah ADSB" Type="ADSB" Elevation="170" MaxRange="250">
-    <Lat>21.713498</Lat>
-    <Long>+039.152441</Long>
-  </Radar>
-  <Radar Name="Jeddah2 SSR" Type="SSR_ModeC" Elevation="650" MaxRange="256">
-    <Lat>+21.661348</Lat>
-    <Long>+039.222080</Long>
-  </Radar>
-  <Radar Name="Abha ADSB" Type="ADSB" Elevation="6960" MaxRange="250">
-    <Lat>18.246356</Lat>
-    <Long>42.641486</Long>
-  </Radar>
-  <Radar Name="Al Baha MSSR" Type="SSR_ModeC" Elevation="8540" MaxRange="256">
-    <Lat>20.042361</Lat>
-    <Long>41.412216</Long>
-  </Radar>
-  <Radar Name="Al Soda MSSR" Type="SSR_ModeC" Elevation="9820" MaxRange="256">
-    <Lat>18.276743</Lat>
-    <Long>42.366589</Long>
-  </Radar>
-  <Radar Name="Sharurah MSSR" Type="SSR_ModeC" Elevation="2450" MaxRange="256">
-    <Lat>17.469333</Lat>
-    <Long>47.099629</Long>
-  </Radar>
-  <Radar Name="Wadi Al Dawasir MSSR" Type="SSR_ModeC" Elevation="3250" MaxRange="256">
-    <Lat>20.143392</Lat>
-    <Long>45.134345</Long>
-  </Radar>
-
-  <!--HSSS-->
-  <Radar Name="Port Sudan" Type="SSR_ModeC" Elevation="135" MaxRange="256">
-    <Lat>+19.439528</Lat>
-    <Long>+037.233333</Long>
-  </Radar>
-  <Radar Name="Dmazin" Type="SSR_ModeC" Elevation="1584" MaxRange="256">
-    <Lat>+11.338222</Lat>
-    <Long>+034.338306</Long>
-  </Radar>
-
 
 </Radars>
